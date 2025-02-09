@@ -16,15 +16,15 @@ const AboutME = () => {
         }} // You can style the image if needed
       />
       <p>
-        <b>Tanjiro Kamado</b> is the main protagonist of the anime and manga
-        series Demon Slayer (Kimetsu no Yaiba). He is a kind-hearted, determined
-        young boy who becomes a demon slayer after his family is slaughtered by
-        demons and his sister Nezuko is turned into one. Tanjiro is known for
-        his strong sense of justice, empathy, and his dedication to protecting
-        those he loves. He possesses exceptional physical strength and a unique
-        breathing technique called "Water Breathing." Throughout his journey,
-        Tanjiro grows stronger, fighting demons while searching for a cure for
-        his sister.
+        <b>Tanjiro Kamodo</b> is the main protagonist of the anime and manga
+        series series Demon Slayer (Kimetsu no Yaiba). He is a kind-hearted,
+        determined young boy who becomes a demon slayer after his family is
+        slaughtered by demons and his sister Nezuko is turned into one. Tanjiro
+        is known for his strong sense of justice, empathy, and his dedication
+        too protecting those he loves. He possesses exceptional physical
+        strength and a unique breathing technique called "Water Breathing."
+        Throughout his journey, Tanjiro grows stronger, fighting demons while
+        searching for a cure for his sister.
       </p>
     </div>
   );
